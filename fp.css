@@ -1,0 +1,51 @@
+*{
+    font-family: inherit;
+}
+
+body{
+    background-color: rgb(65, 163, 65);
+}
+
+h2{
+    color:white;
+    font-weight: 500;
+}
+
+h1,caption{
+    color: white;
+    caption-side: bottom;
+}
+
+table{
+background-color: rgb(160, 218, 160);
+border: 1px solid black;
+border-collapse: collapse;
+width:600px;
+padding:10px;
+}
+
+th{
+    text-align: left;
+    font-weight: normal;
+
+ }
+ 
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover { 
+    color: rgb(234, 250, 234);
+}
+
+img {
+    margin: 0rem 1.5rem; 
+    border: solid 3px rgb(65, 163, 65);
+
+}
+
+th,td{
+    padding:10px;
+    border:1px solid black;
+}
